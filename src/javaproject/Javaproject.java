@@ -9,6 +9,7 @@ public class Javaproject {
       
         System.out.println("hellow2");
         System.out.println("ali");
+         System.out.println("oli");
     }
     
 }
